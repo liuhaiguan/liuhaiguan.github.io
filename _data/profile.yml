@@ -1,58 +1,74 @@
-primary_name: "Liu haiguang"
-secondary_name: ""
-navbar_name: "Liu haiguang"
+primary_name: "Haiguang Liu"
+secondary_name: "刘海广"
+navbar_name: "Haiguang Liu"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: "M.Sc. Candidate in Electronic Information"
+- name: "SIAT (CAS) & SUSTech, Joint Training"
 
-
-email: "12533323@mail.sustech.edu.cn"
+email: "981825072@qq.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: liuhaiguang
-#twitter: your_twitter_id  # Do not include the '@' symbol
+# gscholar: your-google-scholar-id
+# github: your-github-id
+# twitter: your-twitter-id
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a first-year master's student jointly trained by the
+    <a href="https://www.siat.ac.cn/" target="_blank">Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences</a>
+    and <a href="https://www.sustech.edu.cn/" target="_blank">Southern University of Science and Technology (SUSTech)</a>,
+    affiliated with the National Key Laboratory of Medical Imaging Science and Technology.
+    I received my B.Eng. in Intelligent Medical Engineering from
+    <a href="https://www.sztu.edu.cn/" target="_blank">Shenzhen Technology University</a> in 2025.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My research focuses on <b>medical image analysis</b> and <b>quantitative MRI</b>.
+    I work on deep-learning-based segmentation (Mamba / UNet architectures, e.g. TMa-UNet for hippocampus and
+    cerebral artery segmentation), multi-echo water-fat separation and joint T1 / PDFF / B0 / R2* quantification
+    (IR-Look-Locker, CSE, QPBO initialization), and bioimpedance spectroscopy for body composition estimation.
+    I am broadly interested in combining signal processing, physical modeling and machine learning to solve
+    clinical imaging problems.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Replace this with your own photo (e.g. images/you.jpg).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: "Shenzhen Institute of Advanced Technology (SIAT) & SUSTech"
+  dept: "National Key Laboratory of Medical Imaging Science and Technology"
+  position: "M.Sc. in Electronic Information"
+  date: "Sep. 2025 - Jul. 2028"
+- name: "Shenzhen Technology University"
+  dept: "Intelligent Medical Engineering"
+  position: "B.Eng. (Undergraduate)"
+  date: "Sep. 2021 - Jul. 2025"
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: "BrainCo Technology Inc."
+  dept: "Zhejiang, China"
+  position: "Algorithm Intern"
+  date: "Apr. 2026 - Aug. 2026"
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: "First-Class Academic Scholarship, Southern University of Science and Technology"
+  date: "2025 - 2026"
+- name: "National Second Prize, 9th National Biomedical Engineering Innovation Design Competition"
+  date: "2024"
+- name: "Global 6th Place, Cerebral Artery Segmentation Challenge (MICCAI CAS 2023)"
+  date: "2023"
+- name: "National Third Prize, ISICDM 2023"
+  date: "2023"
+- name: "National Third Prize, 'Huashu Cup' National Mathematical Modeling Competition"
+  date: "2022 - 2023"
+- name: "Third Prize, Research & Innovation Scholarship, Shenzhen Technology University"
+  date: "2023 - 2024"
+- name: "Third Prize, 'Craftsman Star' Scholarship, Shenzhen Technology University"
+  date: "2023 - 2024"
+- name: "Second Prize, 'Craftsman Star' Scholarship, Shenzhen Technology University"
+  date: "2022"
+- name: "Outstanding Student (Second Prize), Biomedicine & Smart Medical Summer Camp, SZTU"
+  date: "2022"
